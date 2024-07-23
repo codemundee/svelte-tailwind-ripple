@@ -15,6 +15,26 @@ yarn add svelte-tailwind-ripple
 pnpm add svelte-tailwind-ripple
 ```
 
+## Setup
+
+setup your Tailwind configuration
+
+```js
+// tailwind.config.js
+
+/** @type {import('tailwindcss').Config} */
+export default {
+	content: [
+		"./src/**/*.{html,js,svelte,ts}",
+		"./node_modules/svelte-tailwind-ripple/**/*.{html,js,svelte,ts}",
+	],
+	theme: {
+		extend: {},
+	},
+	plugins: [],
+};
+```
+
 ## Example
 
 ```svelte
