@@ -38,6 +38,10 @@ export default {
 };
 ```
 
+## Note
+
+Add class `relative overflow-hidden` to parent element
+
 ## Example
 
 ```svelte
