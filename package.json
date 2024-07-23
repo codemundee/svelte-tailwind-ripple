@@ -1,6 +1,22 @@
 {
 	"name": "svelte-tailwind-ripple",
 	"version": "0.0.1",
+	"description": "Use Material Design Ripple Effects With TailwindCss",
+	"keywords": [
+		"svelte",
+		"sveltekit",
+		"tailwindcss",
+		"material design",
+		"ripple effect",
+		"material-ripple",
+		"ripple"
+	],
+	"author": "Code Mun Dee",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/codemundee/svelte-tailwind-ripple/issues"
+	},
+	"homepage": "https://github.com/codemundee/svelte-tailwind-ripple#readme",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
