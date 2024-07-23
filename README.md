@@ -7,12 +7,15 @@ use ripple effect with tailwindcss
 ```bash
 # install with npm
 npm install svelte-tailwind-ripple
+npm install tailwind-merge
 
 # install with yarn
 yarn add svelte-tailwind-ripple
+yarn add tailwind-merge
 
 # install with pnpm
 pnpm add svelte-tailwind-ripple
+pnpm add tailwind-merge
 ```
 
 ## Setup
