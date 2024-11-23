@@ -81,6 +81,7 @@ Add class `relative overflow-hidden` to parent element
 
 | Prop Name   | Type   | Default Value |
 | ----------- | ------ | ------------- |
+| as          | string | span          |
 | duration    | number | 500           |
-| rippleClass | string | bg-white      |
+| rippleClass | string | bg-white/25   |
 | class       | string |               |
