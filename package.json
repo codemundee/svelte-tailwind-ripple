@@ -1,6 +1,6 @@
 {
 	"name": "svelte-tailwind-ripple",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"description": "Use Material Design Ripple Effects With TailwindCss",
 	"keywords": [
 		"svelte",
