@@ -1,6 +1,6 @@
 # svelte-tailwind-ripple
 
-use ripple effect with tailwindcss
+use ripple effect with tailwindcss 4
 
 ## Install
 
@@ -16,26 +16,6 @@ yarn add tailwind-merge
 # install with pnpm
 pnpm add svelte-tailwind-ripple
 pnpm add tailwind-merge
-```
-
-## Setup
-
-setup your Tailwind configuration
-
-```js
-// tailwind.config.js
-
-/** @type {import('tailwindcss').Config} */
-export default {
-	content: [
-		"./src/**/*.{html,js,svelte,ts}",
-		"./node_modules/svelte-tailwind-ripple/**/*.{html,js,svelte,ts}",
-	],
-	theme: {
-		extend: {},
-	},
-	plugins: [],
-};
 ```
 
 ## Note
