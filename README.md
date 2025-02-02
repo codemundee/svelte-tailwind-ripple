@@ -53,7 +53,7 @@ Add class `relative overflow-hidden` to parent element
 >
 	Button
 	<!-- change effect style witch background image -->
-	<Ripple rippleClass="bg-img bg-no-repeat bg-center bg-cover" />
+	<Ripple rippleClass="bg-[url(/bg.webp)] bg-no-repeat bg-center bg-cover" />
 </button>
 ```
 
