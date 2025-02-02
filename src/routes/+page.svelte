@@ -17,7 +17,7 @@
 	>
 		Button
 		<!-- image effect style -->
-		<Ripple rippleClass="bg-img bg-no-repeat bg-center bg-cover" />
+		<Ripple rippleClass="bg-[url(/bg.webp)] bg-no-repeat bg-center bg-cover" />
 	</button>
 </div>
 
